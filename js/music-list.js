@@ -1,3 +1,5 @@
+//add music here just follow format
+
 let allMusic = [
   {
     name: "Harley Bird - Home",
